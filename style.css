@@ -48,3 +48,11 @@ textarea{
 input,textarea{
     border: 3px solid black;
 }
+
+.fellows{
+    background-color: aquamarine;
+    display: inline-block;
+    justify-content: space-between;
+    padding: 20px;
+}
+
