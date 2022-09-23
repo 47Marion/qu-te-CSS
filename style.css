@@ -5,6 +5,7 @@ header li{
 
 header{
     background-color: grey;
+    border-bottom: 10px solid rgb(192, 196, 195);
 }
 
 .carousel{
@@ -53,6 +54,6 @@ input,textarea{
     background-color: rgb(192, 196, 195);
     display: inline-block;
     justify-content: space-between;
-    padding: 20px;
+    padding: 20px; height: auto;
 }
 
